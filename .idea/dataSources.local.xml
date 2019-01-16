@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="@localhost" uuid="d58459d4-220a-4087-b44d-fde78941218a">
+      <database-info product="MySQL" version="10.1.34-MariaDB-0ubuntu0.18.04.1" jdbc-version="4.2" driver-name="MariaDB connector/J" driver-version="2.2.1" dbms="MARIADB" exact-version="0.18.4.1">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>sze</user-name>
+      <introspection-schemas>*:db_eargasm,slotify</introspection-schemas>
+    </data-source>
+  </component>
+</project>
